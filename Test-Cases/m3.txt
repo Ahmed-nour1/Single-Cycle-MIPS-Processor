@@ -1,3 +1,5 @@
+// This Machine Code to find fibonacci sequence
+// In Hexadecimal Number
 00008020
 2010FFFF
 00008820
@@ -14,9 +16,4 @@ AC130000
 00139020
 02329820
 08000009
-
-
-
-
-
 
